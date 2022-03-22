@@ -1,2 +1,2 @@
-# didCtic-tribble
+# thebad-goodman
 Trust wallet
